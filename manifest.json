@@ -1,0 +1,24 @@
+{
+  "name": "ABSENSI GERAKAN SISWA MEMBAWA TUMBLER MAN 1 KOTA CIREBON",
+  "short_name": "GSMT MAN 1 KOTA CIREBON",
+  "description": "Sistem Absensi GMT MAN 1 Kota Cirebon",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#00A39D",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://i.ibb.co.com/990f8Z1S/Untitled-500-x-500-px-e1736830153862.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co.com/990f8Z1S/Untitled-500-x-500-px-e1736830153862.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
