@@ -1,4 +1,4 @@
-const CACHE_NAME = 'GSMT-pwa-v0.5';
+const CACHE_NAME = 'GSMT-pwa-v1.0';
 const urlsToCache = [
   './',
   './index.html',
